@@ -55,48 +55,59 @@
 				<div class="boxed-box02">
 				<div class="control">
 					<div class="col-lg-12">
-						</br></br><div class="font08">ตั้งค่าภาษา</div>
+						</br></br><div class="font08">วอลเลต</div>
 						<hr class="my-4" style="border-color: #006665;">
 					</div>
 			
 
 				<div class="row clearfix">
-                    <div class="col-lg-3 col-md-6 col-sm-12">
+                    <div class="col-md-4">
                         <div class="widget">
                             <div class="widget-body">
+								<img src="pic/Icon_ICO-45.png" alt="" style="height: 18px;" align="right"></br></br>
+								<img src="pic/Icon_ICO-42.png" alt="" style="height: 18px;" align="right">
                                 <div class="d-flex justify-content-between align-items-center">
                                     <div class="state">
-											<label class="font09">&emsp;&emsp;
-											<input type="radio" name="answer">&emsp;&emsp;
-											<img src="pic/Thai_flag.png" alt="" style="height: 40px;">&emsp;&emsp;
-											Thai
-											</label>
- 
+											
+											<img src="pic/logo.png" alt="" style="height: 40px;">&emsp;&emsp;
+											<label class="font09">083 123 1455</label></br>&emsp;&emsp;
+											&emsp;&emsp;&emsp;<label class="font11">Sakchai</label>
                                     </div>
 								</div>
                             </div>
                         </div>
                     </div>
-				</div>
-				</br>
-				<div class="row clearfix">
-                    <div class="col-lg-3 col-md-6 col-sm-12">
+				
+                    <div class="col-md-4">
                         <div class="widget">
                             <div class="widget-body">
+								<img src="pic/Icon_ICO-45.png" alt="" style="height: 18px;" align="right"></br></br>
+								<img src="pic/Icon_ICO-42.png" alt="" style="height: 18px;" align="right">
                                 <div class="d-flex justify-content-between align-items-center">
                                     <div class="state">
-										<label class="font09">&emsp;&emsp;
-										<input type="radio" name="answer">&emsp;&emsp;
-										<img src="pic/England_flag.png" alt="" style="height: 40px;">&emsp;&emsp;
-										English
-										</label>
+										<img src="pic/AW_Icon_V1-27.png" alt="" style="height: 40px;">&emsp;&emsp;
+										<label class="font09">1234 43** **** 5678</label></br>&emsp;
+										<label class="font11">Sakchai</label>
                                     </div>
 								</div>
                             </div>
                         </div>
                     </div>
+					
+					<div class="col-md-4">
+                        <div class="widget">
+                            <div class="widget-body">
+                                <div class="d-flex justify-content-between align-items-center">
+                                    <div class="state" style="height: 105px"></br>
+										<img src="pic/AW_Icon_V1-31.png" alt="" style="height: 60px;">&emsp;&emsp;
+										<label class="font03">+ เพิ่มบัญชี</label></br>
+                                    </div>
+								</div>
+                            </div>
+                        </div>
+                    </div>
+					
 				</div>
-					</br></br></br></br></br></br></br></br></br></br></br></br>
 				</div>
 				</div>
 			</div>
@@ -114,10 +125,10 @@
         <li><a href="profile_buy.php" class="entypo-slide"><img height='30' src ='pic/AW_Icon_V1-01.png'></img><span>&nbsp;การซื้อของฉัน</span></a></li>
         <li><a href="#" class="entypo-slide"><img height='30' src ='pic/AW_Icon_V1-02.png'><span>&nbsp;ข้อมูลส่วนตัว</span></a></li>
         <li><a href="#" class="entypo-slide"><img height='30' src ='pic/AW_Icon_V1-03.png'><span>&nbsp;การยืนยันตัวตน</span></a></li>
-        <li><a href="profile_banking.php" class="entypo-slide"><img height='30' src ='pic/AW_Icon_V1-04.png'><span>&nbsp;บัญชีธนาคาร</span></a></li>
+        <li><a href="profile_banking.php" class="entypo-slide"><img height='30' src ='pic/AW_Icon_V1-11.png'><span>&nbsp;บัญชีธนาคาร</span></a></li>
         <li><a href="#" class="entypo-slide"><img height='30' src ='pic/AW_Icon_V1-05.png'><span> &nbsp;แจ้งเรื่องร้องเรียน</span></a></li>
         <li><a href="#" class="entypo-slide"><img height='30' src ='pic/AW_Icon_V1-06.png'><span>&nbsp;ประวัติรายงาน</span></a></li>
-        <li><a href="profile_setting.php" class="entypo-slide"><img height='30' src ='pic/AW_Icon_V1-14.png'><span>&nbsp;ตั้งค่าภาษา</span></a></li>
+        <li><a href="profile_setting.php" class="entypo-slide"><img height='30' src ='pic/AW_Icon_V1-07.png'><span>&nbsp;ตั้งค่าภาษา</span></a></li>
     </ul>
 </aside>
 
